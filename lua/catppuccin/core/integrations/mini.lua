@@ -19,11 +19,7 @@ function M.get(cp)
 		MiniTablineModifiedVisible = { fg = cp.black0, bg = cp.mauve },
 		MiniTablineModifiedHidden = { fg = cp.mauve, bg = cp.black2 },
 		MiniTablineFill = { bg = cp.black1 },
-		MiniCursorword = { style = "underline" },
-		MiniSurround = { style = "underline" },
 		MiniTrailspace = { bg = cp.red },
-		MiniCompletionActiveParameter = { style = "underline" },
-		MiniJump = { style = "reverse" },
 	}
 end
 
