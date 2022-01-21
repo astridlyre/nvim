@@ -1,7 +1,6 @@
 local hsluv = require("catppuccin.utils.hsluv")
 
 local g = vim.g
-local o = vim.o
 
 local util = {}
 
