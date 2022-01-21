@@ -18,7 +18,7 @@ function M.get(cp)
 		MiniTablineModifiedCurrent = { fg = cp.black0, bg = cp.mauve },
 		MiniTablineModifiedVisible = { fg = cp.black0, bg = cp.mauve },
 		MiniTablineModifiedHidden = { fg = cp.mauve, bg = cp.black1 },
-		MiniTablineFill = { bg = cp.black3 },
+		MiniTablineFill = { bg = cp.black1 },
 		MiniTrailspace = { bg = cp.red },
 	}
 end
