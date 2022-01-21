@@ -53,8 +53,9 @@ config.options = {
 		lightspeed = false,
 		ts_rainbow = false,
 		hop = false,
-        notify = true,
-        telekasten = true,
+		notify = true,
+		telekasten = true,
+		mini = false,
 	},
 }
 
