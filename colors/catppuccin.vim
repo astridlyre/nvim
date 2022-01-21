@@ -1,3 +1,1 @@
-lua << EOF
-require('catppuccin').load()
-EOF
+lua require('catppuccin').load()
